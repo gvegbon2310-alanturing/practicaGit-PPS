@@ -1,0 +1,1 @@
+Texto para comprobar la firma GPG.
